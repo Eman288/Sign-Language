@@ -17,7 +17,7 @@ git clone https://github.com/Eman288/Sign-Language.git
 ```bash
 cd Sign-Language
 ```
-3. Once you have installed the dependencies, you can run the AI Coach App by executing the following command:
+3. Once you have installed the dependencies, you can run the Sign-Language app by executing the following command:
 ```bash
 python Hand.py
 ```
