@@ -9,3 +9,9 @@ tensorflow
 os
 
 numpy
+
+pandas
+
+seaborn
+
+matplotlib.pyplot
