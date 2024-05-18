@@ -1,4 +1,4 @@
-# AI Coach 
+# Sign Language
 
 Welcome to the Sign-Language app! The sign language app is designed to translate ASL signs and gestures from both hands into meaningful words. The signs that the app translates include: busy, take care, I don't know, I am fine, who, chair, internet, I am tired, excuse me, and goodbye.
 
