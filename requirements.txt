@@ -1,0 +1,11 @@
+opencv-python
+
+mediapipe
+
+scikit-learn
+
+tensorflow
+
+os
+
+numpy
